@@ -1,0 +1,5 @@
+names:
+- extinguisher
+nc: 1
+train: FireExtinguisher-2/train/images
+val: FireExtinguisher-2/valid/images
